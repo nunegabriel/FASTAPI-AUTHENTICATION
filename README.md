@@ -25,7 +25,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖SIMPLE MANAGEMENT SYSTEM app<a name="about-project"></a>
+# 📖SIMPLE AUTHENTICATION <a name="about-project"></a>
 
 A SIMPLE FASTAPI AUTHENTICATION
 ## 🛠 Built With <a name="built-with"></a>
